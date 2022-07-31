@@ -1,2 +1,2 @@
 # Sheepella
-This project will hep you to improve your english
+This project will help you to improve your english
